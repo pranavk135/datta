@@ -1,1 +1,2 @@
-print(datta)
+print("datta")
+print("loo")
